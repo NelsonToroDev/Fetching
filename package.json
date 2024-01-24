@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@playwright/test": "^1.41.1",
+    "@types/node": "^20.11.5",
     "eslint": "^8.56.0",
     "eslint-plugin-react": "^7.33.2",
     "standard": "^17.1.0",
