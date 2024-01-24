@@ -1,6 +1,9 @@
 React Technical Practice based on Midudev training course
 https://www.youtube.com/playlist?list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29
 
+published on
+https://65b1680b7490664625e41626--funny-semolina-305f6c.netlify.app/
+
 Create a page using the first API to retrieve a random fact and using the second API retrieve an random image sending the first three words from the fact as well as the tags describing the image
 
 To accomplish it you should use the following APIs:
