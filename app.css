@@ -16,14 +16,14 @@ section {
 }
 
 section article {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    place-items: center;
-    max-width: 500px;
-    margin: 0 auto;
-    font-family: system-ui;
-  }
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  place-items: center;
+  max-width: 500px;
+  margin: 0 auto;
+  font-family: system-ui;
+}
 
 section img {
   max-width: 320px;
